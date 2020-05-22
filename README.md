@@ -1,5 +1,7 @@
 plant-tracker-v2
 
+A webapp to track household plants and watering history
+
 ## Available Scripts
 
 In the project directory, you can run:
